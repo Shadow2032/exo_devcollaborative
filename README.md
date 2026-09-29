@@ -18,3 +18,4 @@ npm run lint     # ESLint + HTMLHint
 
 - GitHub Actions : `.github/workflows/ci.yml` — lint sur `main` et les pull requests
 - GitLab CI : `.gitlab-ci.yml` — lint sur `main` et les merge requests
+:
